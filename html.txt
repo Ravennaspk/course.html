@@ -1,0 +1,8 @@
+<html>
+<head>web page designing<br>
+<title>this is my first webpage<title>
+</head>
+<body><bg color="green" font="arial">
+this is body part
+</body>
+</html>
